@@ -1,5 +1,5 @@
 # Titanic-logistic-regression-with-python
-"Explored Titanic dataset using Logistic Regression. Investigated various parameters, RFECV for feature selection. More methods in upcoming article. Open to feedback. See analysis in linked kernel."
+"Explored Titanic dataset using Logistic Regression. Investigated various parameters, RFECV for feature selection. More methods in upcoming article. Open to feedback."
 # Introduction
 
 This work represents a deeper analysis by playing on several parameters while using only logistic regression estimator. In a future work, I will discuss other techniques. I am open to any criticism and proposal. You do not hesitate to evaluate this analysis. The following kernel contains the steps enumerated below for assessing the Titanic survival dataset
